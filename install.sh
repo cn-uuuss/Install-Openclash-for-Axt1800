@@ -8,7 +8,7 @@ ssr-plus)
 	opkg install luci-i18n-base-zh-cn luci-app-ssr-plus luci-i18n-ssr-plus-zh-cn luci-compat luci-lib-ipkg
 	;;
 passwall)
-	opkg install luci-i18n-base-zh-cn luci-app-passwall luci-i18n-passwall-zh-cn luci-compat luci-lib-ipkg
+	opkg install luci-i18n-base-zh-cn luci-app-passwall2 luci-i18n-passwall2-zh-cn luci-compat luci-lib-ipkg
 	;;
 openclash)
 	wget -qO- https://cdn.jsdelivr.net/gh/m0eak/Install-Openclash-for-Axt1800/install_clash.sh | sh
