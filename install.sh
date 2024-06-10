@@ -7,7 +7,7 @@ case "${action}" in
 ssr-plus)
 	opkg install luci-i18n-base-zh-cn luci-app-ssr-plus luci-i18n-ssr-plus-zh-cn luci-compat luci-lib-ipkg
 	;;
-passwall)
+passwall2)
 	opkg install luci-i18n-base-zh-cn luci-app-passwall2 luci-i18n-passwall2-zh-cn luci-compat luci-lib-ipkg
 	;;
 openclash)
