@@ -1,4 +1,4 @@
-wget -qO- https://cdn.jsdelivr.net/gh/cn-uuuss/Install-Openclash-for-Axt1800/install.sh | sh -s passwall 
+wget -qO- https://cdn.jsdelivr.net/gh/cn-uuuss/Install-Openclash-for-Axt1800/install.sh | sh -s passwall2 
 
 安装帕斯沃 
 
